@@ -1,2 +1,2 @@
-# web
-This is a website for hsda.
+# Web
+This is a website for HSDA.
